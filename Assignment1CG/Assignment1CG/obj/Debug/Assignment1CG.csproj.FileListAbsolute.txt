@@ -1,0 +1,22 @@
+C:\Users\Rafiq\Desktop\Assignment1CG\Assignment1CG\bin\Debug\Assignment1CG.exe.config
+C:\Users\Rafiq\Desktop\Assignment1CG\Assignment1CG\bin\Debug\Assignment1CG.exe
+C:\Users\Rafiq\Desktop\Assignment1CG\Assignment1CG\bin\Debug\Assignment1CG.pdb
+C:\Users\Rafiq\Desktop\Assignment1CG\Assignment1CG\obj\Debug\Assignment1CG.csprojAssemblyReference.cache
+C:\Users\Rafiq\Desktop\Assignment1CG\Assignment1CG\obj\Debug\Assignment1CG.Form1.resources
+C:\Users\Rafiq\Desktop\Assignment1CG\Assignment1CG\obj\Debug\Assignment1CG.Properties.Resources.resources
+C:\Users\Rafiq\Desktop\Assignment1CG\Assignment1CG\obj\Debug\Assignment1CG.csproj.GenerateResource.cache
+C:\Users\Rafiq\Desktop\Assignment1CG\Assignment1CG\obj\Debug\Assignment1CG.csproj.CoreCompileInputs.cache
+C:\Users\Rafiq\Desktop\Assignment1CG\Assignment1CG\obj\Debug\Assignment1CG.exe
+C:\Users\Rafiq\Desktop\Assignment1CG\Assignment1CG\obj\Debug\Assignment1CG.pdb
+C:\Users\Rafiq\Desktop\Assignment1CG\Assignment1CG\obj\Debug\Assignment1CG.Form2.resources
+C:\Users\Rafiq\Desktop\Semester6UBIT\Computer Graphics\Assignment1CG\Assignment1CG\bin\Debug\Assignment1CG.exe.config
+C:\Users\Rafiq\Desktop\Semester6UBIT\Computer Graphics\Assignment1CG\Assignment1CG\bin\Debug\Assignment1CG.exe
+C:\Users\Rafiq\Desktop\Semester6UBIT\Computer Graphics\Assignment1CG\Assignment1CG\bin\Debug\Assignment1CG.pdb
+C:\Users\Rafiq\Desktop\Semester6UBIT\Computer Graphics\Assignment1CG\Assignment1CG\obj\Debug\Assignment1CG.csprojAssemblyReference.cache
+C:\Users\Rafiq\Desktop\Semester6UBIT\Computer Graphics\Assignment1CG\Assignment1CG\obj\Debug\Assignment1CG.Form1.resources
+C:\Users\Rafiq\Desktop\Semester6UBIT\Computer Graphics\Assignment1CG\Assignment1CG\obj\Debug\Assignment1CG.Form2.resources
+C:\Users\Rafiq\Desktop\Semester6UBIT\Computer Graphics\Assignment1CG\Assignment1CG\obj\Debug\Assignment1CG.Properties.Resources.resources
+C:\Users\Rafiq\Desktop\Semester6UBIT\Computer Graphics\Assignment1CG\Assignment1CG\obj\Debug\Assignment1CG.csproj.GenerateResource.cache
+C:\Users\Rafiq\Desktop\Semester6UBIT\Computer Graphics\Assignment1CG\Assignment1CG\obj\Debug\Assignment1CG.csproj.CoreCompileInputs.cache
+C:\Users\Rafiq\Desktop\Semester6UBIT\Computer Graphics\Assignment1CG\Assignment1CG\obj\Debug\Assignment1CG.exe
+C:\Users\Rafiq\Desktop\Semester6UBIT\Computer Graphics\Assignment1CG\Assignment1CG\obj\Debug\Assignment1CG.pdb

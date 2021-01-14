@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoImageArithemetic", "TwoImageArithemetic\TwoImageArithemetic.csproj", "{F1C66308-2B46-4260-BC80-7E3C6106662B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1C66308-2B46-4260-BC80-7E3C6106662B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C66308-2B46-4260-BC80-7E3C6106662B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C66308-2B46-4260-BC80-7E3C6106662B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C66308-2B46-4260-BC80-7E3C6106662B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B16A8F2F-D263-4C96-B30E-BA7562218A9B}
+	EndGlobalSection
+EndGlobal

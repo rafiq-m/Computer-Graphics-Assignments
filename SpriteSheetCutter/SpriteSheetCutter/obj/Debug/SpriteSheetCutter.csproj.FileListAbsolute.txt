@@ -1,0 +1,10 @@
+C:\Users\Rafiq\Desktop\Semester6UBIT\ComputerGraphics\SpriteSheetCutter\SpriteSheetCutter\bin\Debug\SpriteSheetCutter.exe.config
+C:\Users\Rafiq\Desktop\Semester6UBIT\ComputerGraphics\SpriteSheetCutter\SpriteSheetCutter\bin\Debug\SpriteSheetCutter.exe
+C:\Users\Rafiq\Desktop\Semester6UBIT\ComputerGraphics\SpriteSheetCutter\SpriteSheetCutter\bin\Debug\SpriteSheetCutter.pdb
+C:\Users\Rafiq\Desktop\Semester6UBIT\ComputerGraphics\SpriteSheetCutter\SpriteSheetCutter\obj\Debug\SpriteSheetCutter.csprojAssemblyReference.cache
+C:\Users\Rafiq\Desktop\Semester6UBIT\ComputerGraphics\SpriteSheetCutter\SpriteSheetCutter\obj\Debug\SpriteSheetCutter.Form1.resources
+C:\Users\Rafiq\Desktop\Semester6UBIT\ComputerGraphics\SpriteSheetCutter\SpriteSheetCutter\obj\Debug\SpriteSheetCutter.Properties.Resources.resources
+C:\Users\Rafiq\Desktop\Semester6UBIT\ComputerGraphics\SpriteSheetCutter\SpriteSheetCutter\obj\Debug\SpriteSheetCutter.csproj.GenerateResource.cache
+C:\Users\Rafiq\Desktop\Semester6UBIT\ComputerGraphics\SpriteSheetCutter\SpriteSheetCutter\obj\Debug\SpriteSheetCutter.csproj.CoreCompileInputs.cache
+C:\Users\Rafiq\Desktop\Semester6UBIT\ComputerGraphics\SpriteSheetCutter\SpriteSheetCutter\obj\Debug\SpriteSheetCutter.exe
+C:\Users\Rafiq\Desktop\Semester6UBIT\ComputerGraphics\SpriteSheetCutter\SpriteSheetCutter\obj\Debug\SpriteSheetCutter.pdb
