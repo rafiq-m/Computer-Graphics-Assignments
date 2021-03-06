@@ -8,3 +8,13 @@ C:\Users\Rafiq\Desktop\Semester6UBIT\ComputerGraphics\TwoImageArithemetic\TwoIma
 C:\Users\Rafiq\Desktop\Semester6UBIT\ComputerGraphics\TwoImageArithemetic\TwoImageArithemetic\obj\Debug\TwoImageArithemetic.csproj.CoreCompileInputs.cache
 C:\Users\Rafiq\Desktop\Semester6UBIT\ComputerGraphics\TwoImageArithemetic\TwoImageArithemetic\obj\Debug\TwoImageArithemetic.exe
 C:\Users\Rafiq\Desktop\Semester6UBIT\ComputerGraphics\TwoImageArithemetic\TwoImageArithemetic\obj\Debug\TwoImageArithemetic.pdb
+C:\Users\Rafiq\Desktop\Semester6UBIT\ComputerGraphics\OpenGL\TwoImageArithemetic\TwoImageArithemetic\obj\Debug\TwoImageArithemetic.csprojAssemblyReference.cache
+C:\Users\Rafiq\Desktop\Semester6UBIT\ComputerGraphics\OpenGL\TwoImageArithemetic\TwoImageArithemetic\obj\Debug\TwoImageArithemetic.Form1.resources
+C:\Users\Rafiq\Desktop\Semester6UBIT\ComputerGraphics\OpenGL\TwoImageArithemetic\TwoImageArithemetic\obj\Debug\TwoImageArithemetic.Properties.Resources.resources
+C:\Users\Rafiq\Desktop\Semester6UBIT\ComputerGraphics\OpenGL\TwoImageArithemetic\TwoImageArithemetic\obj\Debug\TwoImageArithemetic.csproj.GenerateResource.cache
+C:\Users\Rafiq\Desktop\Semester6UBIT\ComputerGraphics\OpenGL\TwoImageArithemetic\TwoImageArithemetic\obj\Debug\TwoImageArithemetic.csproj.CoreCompileInputs.cache
+C:\Users\Rafiq\Desktop\Semester6UBIT\ComputerGraphics\OpenGL\TwoImageArithemetic\TwoImageArithemetic\obj\Debug\TwoImageArithemetic.exe
+C:\Users\Rafiq\Desktop\Semester6UBIT\ComputerGraphics\OpenGL\TwoImageArithemetic\TwoImageArithemetic\obj\Debug\TwoImageArithemetic.pdb
+C:\Users\Rafiq\Desktop\Semester6UBIT\ComputerGraphics\OpenGL\TwoImageArithemetic\TwoImageArithemetic\bin\Debug\TwoImageArithemetic.exe.config
+C:\Users\Rafiq\Desktop\Semester6UBIT\ComputerGraphics\OpenGL\TwoImageArithemetic\TwoImageArithemetic\bin\Debug\TwoImageArithemetic.exe
+C:\Users\Rafiq\Desktop\Semester6UBIT\ComputerGraphics\OpenGL\TwoImageArithemetic\TwoImageArithemetic\bin\Debug\TwoImageArithemetic.pdb

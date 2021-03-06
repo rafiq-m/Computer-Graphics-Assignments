@@ -90,7 +90,7 @@ void myDisplay(void)
 
     float mid_x = (min_x + max_x) / 2.0;
     float mid_y = (min_y + max_y) / 2.0;
-    float r = sqrt(pow((max_x - mid_x),2) + pow((max_y-mid_y),2));
+    float r = sqrt(pow(mid_x,2) + pow((mid_y),2));
     glBegin(GL_LINE_LOOP);
     for(int ii = 0; ii < 40; ii++)
     {
@@ -99,7 +99,7 @@ void myDisplay(void)
         float x = r * cosf(theta);//calculate the x component
         float y = r * sinf(theta);//calculate the y component
 
-        glVertex2f(x + (max_x-min_x)/2, y + (max_y-min_y) / 2);//output vertex
+        glVertex2f(x + mid_x, y + mid_y);//output vertex
 
     }
     glEnd();

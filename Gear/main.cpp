@@ -11,20 +11,9 @@ void myInit(void)
     glPointSize(2.0); // a ‘dot’ is 4 by 4 pixels
     glMatrixMode(GL_PROJECTION);
     glLoadIdentity();
-    gluOrtho2D(-10, 10, -10, 10);
+    gluOrtho2D(-30, 30, -30, 30);
 }
 
-void drawTooth()
-{
-    glBegin(GL_LINE_STRIP);
-    glVertex2f(0,0);
-    glVertex2f(0.2,0.2);
-    glVertex2f(0.6,0.2);
-    glVertex2f(0.6,0.8);
-    glVertex2f(0.2, 0.8);
-    glVertex2f(0, 1);
-    glEnd();
-}
 
 void drawBox(float r,float g,float b)
 {
@@ -60,11 +49,37 @@ void drawLine()
     glVertex2f(10 , (10+4)/2 );
     glEnd();
 }
+
+void drawTooth()
+{
+    glBegin(GL_LINE_STRIP);
+    glVertex2f(0,0);
+    glVertex2f(0.2,0.2);
+    glVertex2f(0.6,0.2);
+    glVertex2f(0.6,0.8);
+    glVertex2f(0.2, 0.8);
+    glVertex2f(0, 1);
+    glEnd();
+}
+
 //<<<<<<<<<<<<<<<<<<<<<<<< myDisplay >>>>>>>>>>>>>>>>>
 void myDisplay(void)
 {
 
-    glClear(GL_COLOR_BUFFER_BIT); // clear the screen
+    glClear(GL_COLOR_BUFFER_BIT);
+    float angle = 360/30.0;
+    for(int i = 0 ; i < 30 ; i++)
+    {
+        glPushMatrix();
+        glRotated(angle*i, 0 , 0 ,1);
+        glScaled(3.5,3.5,0);
+        glTranslated(5, 0 , 0);
+        drawTooth();
+        glPopMatrix();
+    }
+    glutSwapBuffers();
+
+    /*glClear(GL_COLOR_BUFFER_BIT); // clear the screen
     for(float i = -20 ; i < 20 ; i+=0.02)
     {
         drawDot(i,0,0,0,0);
@@ -78,14 +93,14 @@ void myDisplay(void)
     glRotated(63.5, 0 , 0 , 1);
     glTranslated(0, -2, 0 );
     drawTriangle();
-    glutSwapBuffers(); // send all output to display
+    glutSwapBuffers(); // send all output to display*/
 }
 
 //<<<<<<<<<<<<<<<<<<<<<<<< main >>>>>>>>>>>>>>>>>>>>>>
 int main(int argc, char** argv)
 {
     glutInit(&argc, argv); // initialize the toolkit
-    glutInitDisplayMode(GLUT_SINGLE | GLUT_RGB); // set display mode
+    glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB); // set display mode
     glutInitWindowSize(640,480); // set window size
     glutInitWindowPosition(100, 150); // set window position on screen
     glutCreateWindow("my first attempt"); // open the screen window

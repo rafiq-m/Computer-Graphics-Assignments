@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1608556728 source:c:\users\rafiq\desktop\semester6ubit\computergraphics\opengl\zoomin\main.cpp
+1612949749 source:c:\users\rafiq\desktop\semester6ubit\computergraphics\opengl\zoomin\main.cpp
 	<stdio.h>
 	<iostream>
 	<stdlib.h>
@@ -897,7 +897,7 @@
 1526093414 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\gl\glu.h
 	<GL/gl.h>
 
-1608557022 c:\users\rafiq\desktop\semester6ubit\computergraphics\opengl\zoomin\rgba.h
+1608557053 c:\users\rafiq\desktop\semester6ubit\computergraphics\opengl\zoomin\rgba.h
 	<math.h>
 	<iostream>
 	<fstream>

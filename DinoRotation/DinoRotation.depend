@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1610433813 source:c:\users\rafiq\desktop\semester6ubit\computergraphics\opengl\dinorotation\main.cpp
+1612944829 source:c:\users\rafiq\desktop\semester6ubit\computergraphics\opengl\dinorotation\main.cpp
 	<windows.h>
 	<GL/gl.h>
 	<GL/glu.h>

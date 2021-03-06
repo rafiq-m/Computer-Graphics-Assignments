@@ -35,7 +35,7 @@ void draw_hexagon(float x,float y)
 void myDisplay(void)
 {
     glClear(GL_COLOR_BUFFER_BIT);
-    for(int row = 0 ; row < 6 ; row++)
+    /*for(int row = 0 ; row < 6 ; row++)
     {
         glPushMatrix();
         for(int col = 0 ; col < 6 ; col++)
@@ -45,7 +45,8 @@ void myDisplay(void)
         }
         glPopMatrix();
         glTranslatef( sqrt(3)/2 * hexagon_r, sqrt(3) * hexagon_r-4 ,0);
-    }
+    }*/
+    draw_hexagon(0,0);
     glFlush();
 }
 int main(int argc, char** argv)

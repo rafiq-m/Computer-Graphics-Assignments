@@ -27,19 +27,24 @@ namespace TwoImageArithemetic
         {
             //Add two Images
             Color[,] color3 = new Color[picture2.Width, picture2.Height];
-            for (int i = 0; i < picture2.Width; i++)
+            float t = 0.0f;
+            for (int k = 0; t <= 1.0; k++)
             {
-                for (int j = 0; j < picture2.Height; j++)
+                for (int i = 0; i < picture2.Width; i++)
                 {
-                    byte r = (byte)((color1[i, j].R + color2[i, j].R));
-                    byte g = (byte)((color1[i, j].G + color2[i, j].G));
-                    byte b = (byte)((color1[i, j].B + color2[i, j].B));
-                    color3[i, j] = Color.FromArgb(r, g, b);
+                    for (int j = 0; j < picture2.Height; j++)
+                    {
+                        byte r = (byte)(((1-t)*color1[i, j].R + t*color2[i, j].R));
+                        byte g = (byte)(((1-t)*color1[i, j].G + t*color2[i, j].G));
+                        byte b = (byte)(((1-t)*color1[i, j].B + t*color2[i, j].B));
+                        color3[i, j] = Color.FromArgb(r, g, b);
+                    }
                 }
+                t += 0.05f;
+                System.Threading.Thread.Sleep(200);
+                pictureBox3.Refresh();
+                showImage(color3);
             }
-
-
-            showImage(color3);
         }
 
         private void Button5_Click(object sender, EventArgs e)
@@ -63,10 +68,6 @@ namespace TwoImageArithemetic
             picture2 = new Bitmap(pictureBox2.Image);
             picture2 = ResizeImage(picture2, 300, 300);
             color2 = new Color[picture2.Width, picture2.Height];
-
-
-            textBox1.Text += " " + picture1.Width + " " + picture1.Height;
-            textBox1.Text += " " + picture2.Width + " " + picture2.Height;
 
             for (int i = 0; i < picture1.Width; i++)
             {

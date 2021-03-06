@@ -1,13 +1,11 @@
 # depslib dependency file v1.0
-1609061708 source:c:\users\rafiq\desktop\semester6ubit\computergraphics\opengl\dinodrawing\main.cpp
+1611736052 source:c:\users\rafiq\desktop\semester6ubit\computergraphics\opengl\tweening\main.cpp
 	<windows.h>
-	<gl/Gl.h>
-	<gl/glut.h>
-	<fstream>
-	<string>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<math.h>
 	<iostream>
-	<typeinfo>
-	<cmath>
 
 1526093414 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\windows.h
 	<_mingw.h>
@@ -862,6 +860,9 @@
 	<windows.h>
 	<stddef.h>
 
+1526093414 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\gl\glu.h
+	<GL/gl.h>
+
 1426331728 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\gl\glut.h
 	"freeglut_std.h"
 
@@ -876,6 +877,6 @@
 	<GL/glu.h>
 	<stdlib.h>
 
-1526093414 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\gl\glu.h
-	<GL/gl.h>
+1526093416 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\math.h
+	<crtdefs.h>
 

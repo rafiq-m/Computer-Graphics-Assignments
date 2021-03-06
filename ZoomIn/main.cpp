@@ -6,12 +6,16 @@
 #include <Windows.h>
 #include "RGBA.h"
 
+using namespace std;
+
 float xx = 0, yy=0;
 
 RGBApixmap pix[6];
+int my_x, my_y;
 void myInit(void)
 {
     glClearColor(0.0f,0.0f,0.0f,1.0f);
+    glPointSize(5);
     glEnable(GL_ALPHA_TEST);
     glAlphaFunc(GL_EQUAL,1.0); // accept fragment if fragment alpha = reference alpha i.e. 1.0
     //or glAlphaFunc(GL_NOTEQUAL,0.0);// accept fragment if fragment alpha not= reference alpha i.e. 1.0
@@ -47,6 +51,7 @@ void display(void)
     glEnd();
     glDisable(GL_TEXTURE_2D);
     glFlush();
+
 
 }
 
